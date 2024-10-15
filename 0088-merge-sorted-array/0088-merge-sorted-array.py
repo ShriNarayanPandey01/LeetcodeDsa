@@ -3,23 +3,21 @@ class Solution:
         """
         Do not return anything, modify nums1 in-place instead.
         """
-        a=0
-        n=len(nums1)-1
-        print(n)
-        while(n>=0):
-            if(a==(len(nums2))):
-                    break
-            if(nums1[n]==0):
-                nums1[n]=nums2[a]
-                a+=1
-                n-=1
-                continue
-                if(a==(len(nums2)-1)):
-                    break
-            n-=1
-        nums1.sort()
-        
-                
-            
-            
-        
+        a,b,i = m-1,n-1 , n+m-1
+        while a >= 0 and b >=0 :
+            if nums1[a] > nums2[b]:
+                nums1[i] = nums1[a]
+                i-=1
+                a-=1
+            else: 
+                nums1[i] = nums2[b]
+                i-=1
+                b-=1
+        while a >= 0 :
+            nums1[i] = nums1[a]
+            i-=1
+            a-=1
+        while b >= 0 :
+            nums1[i] = nums2[b]
+            i-=1
+            b-=1
