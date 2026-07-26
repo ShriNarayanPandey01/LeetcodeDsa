@@ -13,4 +13,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1952-three-divisors) |
+## Depth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1971-find-if-path-exists-in-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1971-find-if-path-exists-in-graph) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
