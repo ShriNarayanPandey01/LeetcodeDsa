@@ -1,5 +1,5 @@
 class Solution {
-    public HashSet<Integer> v = new HashSet<>();
+
     public int[] findOrder(int numCourses, int[][] prerequisites) {
         ArrayList<ArrayList<Integer>> graph = new ArrayList<>();
         for( int i = 0 ; i< numCourses ; i++) graph.add( new ArrayList<>());
@@ -11,9 +11,8 @@ class Solution {
         ArrayList<Integer> ret = new ArrayList<>();
         boolean[] vis = new boolean[numCourses];
         for( int i = 0 ; i < numCourses ; i++){
-            if( in[i] == 0 && !v.contains(i)){
+            if( in[i] == 0 ){
                 ret.add(i);
-                v.add(i);
                 if(!help(graph , i , in  , ret))
                     return new int[]{};
             }
@@ -32,17 +31,14 @@ class Solution {
         
         for( int i : graph.get(ind)){
             if( in[i] == 0  ) return false;
-            in[i]--;
-            if( in[i] == 0){
+            if( --in[i] == 0){
+                in[i]--;
                 ret.add(i);
-                v.add(i);
                 if(!help(graph , i , in  , ret))
                     return false;
-            }
-            
+            }           
         }
-        if( in[ind] == 0)
-            return true;
-        return false;
+
+        return true;
     }
 }
