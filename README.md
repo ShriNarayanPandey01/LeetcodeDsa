@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1952-three-divisors](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1952-three-divisors) |
 ## Enumeration
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0085-maximal-rectangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0085-maximal-rectangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Matrix
 |  |
 | ------- |
