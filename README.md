@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -26,16 +27,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0102-binary-tree-level-order-traversal) |
 | [0210-course-schedule-ii](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
@@ -84,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0102-binary-tree-level-order-traversal) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
