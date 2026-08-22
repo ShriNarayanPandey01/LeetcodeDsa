@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0085-maximal-rectangle) |
+| [0091-decode-ways](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0091-decode-ways) |
 ## Stack
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0071-simplify-path) |
+| [0091-decode-ways](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0091-decode-ways) |
 ## Tree
 |  |
 | ------- |
