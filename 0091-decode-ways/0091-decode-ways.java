@@ -11,7 +11,7 @@ class Solution {
         if( dp[ind] != null) return dp[ind];
         int a = hlp( s , ind + 1);
         
-        if(ind < s.length()-1 && Integer.parseInt( s.substring(ind, ind + 2)) < 27){
+        if(ind < s.length()-1 && Integer.parseInt( ""+s.charAt(ind)+s.charAt(ind+1)) < 27){
             a += hlp( s , ind + 2);
         }
         dp[ind] = a;
