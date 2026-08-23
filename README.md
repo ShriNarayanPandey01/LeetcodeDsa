@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0210-course-schedule-ii) |
+| [0388-longest-absolute-file-path](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0388-longest-absolute-file-path) |
 | [0743-network-delay-time](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1971-find-if-path-exists-in-graph) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0388-longest-absolute-file-path](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0388-longest-absolute-file-path) |
 ## Matrix
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0097-interleaving-string) |
+| [0388-longest-absolute-file-path](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0388-longest-absolute-file-path) |
 ## Tree
 |  |
 | ------- |
