@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1952-three-divisors](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1952-three-divisors) |
 ## Enumeration
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0096-unique-binary-search-trees) |
 ## Stack
 |  |
 | ------- |
@@ -85,10 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0102-binary-tree-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0102-binary-tree-level-order-traversal) |
 ## Graph Coloring
 |  |
@@ -98,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0785-is-graph-bipartite) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
