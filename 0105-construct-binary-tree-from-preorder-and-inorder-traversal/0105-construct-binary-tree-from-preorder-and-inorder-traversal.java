@@ -15,7 +15,11 @@
  */
 class Solution {
     int k = 0;
+    HashMap<Integer , Integer> map;
     public TreeNode buildTree(int[] preorder, int[] inorder) {
+        map = new HashMap<>();
+        for( int i = 0 ; i< inorder.length ; i++)
+            map.put(inorder[i], i);
         return hlp(preorder , inorder , 0 , inorder.length-1);
     }
     public TreeNode hlp( int[] preorder , int[] inorder , int i , int j){
@@ -27,14 +31,12 @@ class Solution {
             return new TreeNode(inorder[i]);
         }
         TreeNode root = new TreeNode(preorder[k]);
-        for( int a = i ; a <= j ; a++){
-            if( preorder[k] == inorder[a]){
-                k++;
-                root.left = hlp(preorder , inorder , i , a-1);
-                k++;
-                root.right = hlp(preorder , inorder , a+1 , j);
-                break;
-            }
+        int a = map.get(preorder[k]);
+        if( a >= i && a <= j){
+            k++;
+            root.left = hlp(preorder , inorder , i , a - 1);
+            k++;
+            root.right = hlp(preorder , inorder , a + 1 , j);
         }
         return root;
 
