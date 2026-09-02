@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0743-network-delay-time) |
+| [1094-car-pooling](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1094-car-pooling) |
 ## Shortest Path
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1094-car-pooling](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1094-car-pooling) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -122,4 +124,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Sorting
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1094-car-pooling) |
+## Simulation
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1094-car-pooling) |
+## Prefix Sum
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->
