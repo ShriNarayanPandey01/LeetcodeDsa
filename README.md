@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1094-car-pooling](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1109-corporate-flight-bookings) |
+| [2718-sum-of-matrix-after-queries](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/2718-sum-of-matrix-after-queries) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [2718-sum-of-matrix-after-queries](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/2718-sum-of-matrix-after-queries) |
 ## Divide and Conquer
 |  |
 | ------- |
