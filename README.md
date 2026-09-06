@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0743-network-delay-time) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1094-car-pooling](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1094-car-pooling) |
 ## Shortest Path
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1094-car-pooling](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1109-corporate-flight-bookings) |
 ## Dynamic Programming
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0097-interleaving-string) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Stack
 |  |
 | ------- |
@@ -138,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1094-car-pooling](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1109-corporate-flight-bookings) |
+## Greedy
+|  |
+| ------- |
+| [0871-minimum-number-of-refueling-stops](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0871-minimum-number-of-refueling-stops) |
 <!---LeetCode Topics End-->
