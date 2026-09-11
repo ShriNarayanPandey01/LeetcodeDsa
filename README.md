@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1109-corporate-flight-bookings) |
 | [2718-sum-of-matrix-after-queries](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/2718-sum-of-matrix-after-queries) |
+| [3152-special-array-ii](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/3152-special-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0096-unique-binary-search-trees) |
+| [3152-special-array-ii](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/3152-special-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1094-car-pooling](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1109-corporate-flight-bookings) |
+| [3152-special-array-ii](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/3152-special-array-ii) |
 ## Greedy
 |  |
 | ------- |
