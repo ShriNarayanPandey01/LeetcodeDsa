@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1109-corporate-flight-bookings) |
 | [2718-sum-of-matrix-after-queries](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/2718-sum-of-matrix-after-queries) |
+| [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3152-special-array-ii](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/3152-special-array-ii) |
 ## Dynamic Programming
 |  |
@@ -157,5 +158,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 <!---LeetCode Topics End-->
