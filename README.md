@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0871-minimum-number-of-refueling-stops) |
+| [1027-longest-arithmetic-subsequence](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1027-longest-arithmetic-subsequence) |
 | [1094-car-pooling](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1109-corporate-flight-bookings) |
 | [2718-sum-of-matrix-after-queries](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/2718-sum-of-matrix-after-queries) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0097-interleaving-string) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0871-minimum-number-of-refueling-stops) |
+| [1027-longest-arithmetic-subsequence](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1027-longest-arithmetic-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -127,11 +129,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0096-unique-binary-search-trees) |
+| [1027-longest-arithmetic-subsequence](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1027-longest-arithmetic-subsequence) |
 | [3152-special-array-ii](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/3152-special-array-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [1027-longest-arithmetic-subsequence](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1027-longest-arithmetic-subsequence) |
 | [2718-sum-of-matrix-after-queries](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/2718-sum-of-matrix-after-queries) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Divide and Conquer
