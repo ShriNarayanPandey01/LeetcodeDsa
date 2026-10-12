@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3152-special-array-ii](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/3152-special-array-ii) |
+| [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0097-interleaving-string) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1027-longest-arithmetic-subsequence](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1027-longest-arithmetic-subsequence) |
+| [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 ## Stack
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1027-longest-arithmetic-subsequence](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1027-longest-arithmetic-subsequence) |
 | [2718-sum-of-matrix-after-queries](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/2718-sum-of-matrix-after-queries) |
 | [2857-count-pairs-of-points-with-distance-k](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/2857-count-pairs-of-points-with-distance-k) |
+| [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Divide and Conquer
 |  |
