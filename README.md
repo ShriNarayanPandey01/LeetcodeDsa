@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1109-corporate-flight-bookings) |
 | [2718-sum-of-matrix-after-queries](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/2718-sum-of-matrix-after-queries) |
+| [2857-count-pairs-of-points-with-distance-k](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/2857-count-pairs-of-points-with-distance-k) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3152-special-array-ii](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/3152-special-array-ii) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1027-longest-arithmetic-subsequence](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1027-longest-arithmetic-subsequence) |
 | [2718-sum-of-matrix-after-queries](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/2718-sum-of-matrix-after-queries) |
+| [2857-count-pairs-of-points-with-distance-k](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/2857-count-pairs-of-points-with-distance-k) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Divide and Conquer
 |  |
@@ -169,5 +171,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [2857-count-pairs-of-points-with-distance-k](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/2857-count-pairs-of-points-with-distance-k) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 <!---LeetCode Topics End-->
