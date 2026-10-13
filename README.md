@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0388-longest-absolute-file-path](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0388-longest-absolute-file-path) |
 | [0743-network-delay-time](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0785-is-graph-bipartite) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0785-is-graph-bipartite) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
@@ -114,12 +116,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -138,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1027-longest-arithmetic-subsequence](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1027-longest-arithmetic-subsequence) |
 | [2718-sum-of-matrix-after-queries](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/2718-sum-of-matrix-after-queries) |
 | [2857-count-pairs-of-points-with-distance-k](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/2857-count-pairs-of-points-with-distance-k) |
@@ -150,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1094-car-pooling](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1094-car-pooling) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Simulation
