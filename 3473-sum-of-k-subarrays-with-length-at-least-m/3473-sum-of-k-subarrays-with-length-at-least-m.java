@@ -24,7 +24,7 @@ class Solution {
         int prev = Integer.MIN_VALUE;
         for( int i = ind+m-1 ; i < (ind+extra+m) ; i++){
             int sum = prefix[i+1] - prefix[ind] ;
-            if( sum >= prev){
+            if( sum > prev){
                 max = Math.max( max , sum + hlp( nums , k -1 , m , i+1 , (extra - ( i - (ind+m-1) )) ));
                 prev = sum;
             }
