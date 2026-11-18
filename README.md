@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0172-factorial-trailing-zeroes](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0172-factorial-trailing-zeroes) |
 | [1006-clumsy-factorial](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1006-clumsy-factorial) |
 | [1952-three-divisors](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1952-three-divisors) |
 ## Enumeration
