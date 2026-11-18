@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1006-clumsy-factorial](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1006-clumsy-factorial) |
 | [1952-three-divisors](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1952-three-divisors) |
 ## Enumeration
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0388-longest-absolute-file-path](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0388-longest-absolute-file-path) |
+| [1006-clumsy-factorial](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1006-clumsy-factorial) |
 ## Matrix
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1006-clumsy-factorial](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1006-clumsy-factorial) |
 | [1094-car-pooling](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1094-car-pooling) |
 ## Prefix Sum
 |  |
