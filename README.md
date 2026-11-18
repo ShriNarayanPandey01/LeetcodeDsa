@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3152-special-array-ii](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/3152-special-array-ii) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
+| [3473-sum-of-k-subarrays-with-length-at-least-m](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/3473-sum-of-k-subarrays-with-length-at-least-m) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1027-longest-arithmetic-subsequence](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1027-longest-arithmetic-subsequence) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
+| [3473-sum-of-k-subarrays-with-length-at-least-m](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/3473-sum-of-k-subarrays-with-length-at-least-m) |
 ## Stack
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1109-corporate-flight-bookings) |
 | [3152-special-array-ii](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/3152-special-array-ii) |
+| [3473-sum-of-k-subarrays-with-length-at-least-m](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/3473-sum-of-k-subarrays-with-length-at-least-m) |
 ## Greedy
 |  |
 | ------- |
