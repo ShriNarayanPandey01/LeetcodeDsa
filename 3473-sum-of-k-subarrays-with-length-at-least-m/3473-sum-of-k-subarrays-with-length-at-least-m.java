@@ -17,6 +17,9 @@ class Solution {
     public int hlp( int[] nums , int k , int m , int ind , int extra ){
         if( k == 0 ) return 0;
         if( dp[ind][k] != null) return dp[ind][k];
+        if( extra == 0){
+            return prefix[prefix.length-1]- prefix[ind];
+        }
         int max = Integer.MIN_VALUE;
         if( extra > 0 ){
             max = hlp( nums  , k  , m , ind+1 ,  extra - 1);
