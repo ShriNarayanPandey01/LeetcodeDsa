@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0097-interleaving-string) |
 | [0388-longest-absolute-file-path](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/0388-longest-absolute-file-path) |
+| [1616-split-two-strings-to-make-palindrome](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Tree
 |  |
@@ -189,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2857-count-pairs-of-points-with-distance-k](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/2857-count-pairs-of-points-with-distance-k) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [1616-split-two-strings-to-make-palindrome](https://github.com/ShriNarayanPandey01/LeetcodeDsa/tree/master/1616-split-two-strings-to-make-palindrome) |
 <!---LeetCode Topics End-->
